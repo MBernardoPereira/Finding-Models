@@ -1,7 +1,7 @@
 # Finding Models
 
-This project was conducted in the context of the course unit "2nd Cycle Integrated Project in Applied Mathematics and Computation" from the Msc in Applied
-Mathematics and Computation at IT Lisbon.
+This project was conducted in the context of the course unit "2nd Cycle Integrated Project in Applied Mathematics and Computation" from the MSc in Applied
+Mathematics and Computation at Instituto Superior Técnico, Lisbon.
 It was developed to explore solutions to the Minimal Hitting Set Problem in the context of Algebraic Machine Learning.
 
 In the main file, "project_code.py" there are 7 main "chapters" in this code that are ordered in the following way:
